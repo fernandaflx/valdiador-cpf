@@ -1,6 +1,7 @@
 <h1 align="center">Validador de CPF</h1>
 
-Simples como o nome ja diz, o projeto a seguir valida se um determinado CPF é valido.
+Simples como o nome já diz, o projeto a seguir valida se um determinado CPF é valido.
+
 
 ## ✨ Sobre o projeto
 
