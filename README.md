@@ -9,7 +9,7 @@ Simples como o nome já diz, o projeto a seguir valida se um determinado CPF é 
 - CPF com números repetidos, como 111.111..., 222.222... são validados pela lógica usada, porém como sabemos que estes não existem, eles também não passam pela validação. 
 
 
-## 🖥 Stack utilizada
+## 🖥 Tecnologias utilizadas
 
 - HTML
 - SASS
