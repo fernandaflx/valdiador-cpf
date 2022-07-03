@@ -33,7 +33,7 @@ Clone o projeto
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
+  cd validador-cpf
 ```
 
 Instale as dependências
