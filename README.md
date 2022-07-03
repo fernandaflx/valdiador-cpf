@@ -1,26 +1,26 @@
 <h1 align="center">Validador de CPF</h1>
-
-Simples como o nome já diz, o projeto a seguir valida se um determinado CPF é valido.
-
+<br>
 
 ## ✨ Sobre o projeto
 
 - A lógica devalidação é a mesma utilizada pela Receita Federal. 
 - CPF com números repetidos, como 111.111..., 222.222... são validados pela lógica usada, porém como sabemos que estes não existem, eles também não passam pela validação. 
-
+<br>
 
 ## 🖥 Tecnologias utilizadas
 
 - HTML
 - SASS
 - Javascript
-
+<br>
 
 ## Demonstração
 
 Este projeto foi hospedado no Netlify, para uma melhor visualização basta clicar no link abaixo.
 
 [Link do Projeto](https://validador-de-cpfs.netlify.app/) ⌨️
+
+<br>
 
 ## 📦 Rodando localmente
 
